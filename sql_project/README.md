@@ -6,8 +6,8 @@ This project is a simple exploratory data analysis (EDA) of global COVID-19 data
 
 ## 🛠️ Tools
 
-- PostgreSQL / MySQL  
-- pgAdmin / DBeaver  
+- PostgreSQL 
+- pgAdmin  
 - COVID-19 dataset from [Our World in Data](https://ourworldindata.org/coronavirus)
 
 ---
