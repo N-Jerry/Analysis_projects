@@ -13,6 +13,18 @@ The main goal is to use interactive visuals to answer key questions, such as:
 - Are there score trends across districts, states, or school years?
 - How do demographic or regional factors play a role?
 
+## 🧹 Data Cleaning & Transformation (Power Query)
+
+Before building visuals, the data was cleaned and shaped using **Power Query Editor**:
+ 
+- Replaced blank values with nulls   
+- Standardized column names for clarity  
+- Created merged columns such as **City state** from both ***City*** and ***State*** columns 
+- Ensured correct data types for numerical and categorical fields  
+
+This step ensured the data was analysis-ready and well-structured for reporting.
+
+---
 
 ## 📈 Tools & Features Used
 
