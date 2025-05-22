@@ -34,6 +34,7 @@ This project uses Excel to explore customer data and understand what factors inf
 - `bike_purchase_analysis.xlsx` – includes cleaned data, analysis, and dashboard
 
 ---
+![Dashboard Preview](image.png)
 
 *Part of my [Data Analysis Projects Portfolio](../README.md)*
 
