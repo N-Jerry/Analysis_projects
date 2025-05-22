@@ -31,7 +31,6 @@ This step ensured the data was analysis-ready and well-structured for reporting.
 - **Power BI Desktop**
 - Data modeling (relationships, calculated columns)
 - DAX for KPIs (average score, score improvements, etc.)
-- Interactive visuals: bar charts, slicers, scatter plots
 - Drilldowns and filters for district, grade, and state-level views
 
 ---
